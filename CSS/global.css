@@ -61,3 +61,19 @@
     width: 100%;
     text-align: center;
 }
+
+/* Forms */
+
+.form-group{
+    padding: 0.25rem 0;
+}
+.form-control{
+    width: 100%;
+    padding: 0.4rem;
+    font-size: 1rem;
+    resize: none;
+    border-radius: 5px;
+}
+.form-group label{
+    display: block;
+}
